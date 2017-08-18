@@ -1,6 +1,6 @@
 
-arrNumbers = [1,2,3]
+lstNumbers = [1,2,3]
 
-IO.write "Lowest number: #{Enum.min(arrNumbers)}"
+IO.write "Lowest number: #{Enum.min(lstNumbers)}"
 
 

@@ -1,5 +1,5 @@
 
-arrNumbers = [1,2,3]
+lstNumbers = [1,2,3]
 
-IO.write "Sum is #{Enum.sum(arrNumbers)}"
+IO.write "Sum is #{Enum.sum(lstNumbers)}"
 

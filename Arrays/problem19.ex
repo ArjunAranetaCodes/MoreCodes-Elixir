@@ -1,10 +1,10 @@
 
-array1 = [1,2,3]
-array2 = [1,2,3]
+list1 = [1,2,3]
+list2 = [1,2,3]
 
-array2 = Enum.concat(array1, array2)
+list2 = Enum.concat(list1, list2)
 
-for x <- array2 do
+for x <- list2 do
  IO.write "#{x}\n"
 end
 

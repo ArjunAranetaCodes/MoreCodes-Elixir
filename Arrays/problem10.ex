@@ -1,5 +1,5 @@
 
-arrNumbers = [1,2,3]
+lstNumbers = [1,2,3]
 
-IO.write "Average is #{Enum.sum(arrNumbers)/3}"
+IO.write "Average is #{Enum.sum(lstNumbers)/3}"
 

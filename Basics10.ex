@@ -1,10 +1,10 @@
-#Array Basics
+#List Basics
 
-array = [1,2,3]
+lst = [1,2,3]
 
-IO.puts Enum.at(array, 0)
-IO.puts Enum.at(array, 1)
-IO.puts Enum.at(array, 2)
+IO.puts Enum.at(lst, 0)
+IO.puts Enum.at(lst, 1)
+IO.puts Enum.at(lst, 2)
 
 
 

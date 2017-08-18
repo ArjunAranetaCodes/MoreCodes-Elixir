@@ -1,9 +1,9 @@
 
-arrNumbers = [1,2,3]
+lstNumbers = [1,2,3]
 
-arrNumbers = Enum.concat(arrNumbers, [5])
+lstNumbers = Enum.concat(lstNumbers, [5])
 
-for x <- arrNumbers do
+for x <- lstNumbers do
  IO.write "#{x}\n"
 end
 

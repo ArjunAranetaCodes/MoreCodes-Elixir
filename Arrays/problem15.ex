@@ -1,8 +1,8 @@
 
-array1 = [1,2,3]
-array2 = array1
+list1 = [1,2,3]
+list2 = list1
 
-for x <- array2 do
+for x <- list2 do
  IO.write "#{x}\n"
 end
 

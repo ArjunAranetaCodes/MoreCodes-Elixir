@@ -1,7 +1,7 @@
 
-arrNumbers = [1,2,3]
+lstNumbers = [1,2,3]
 
-for x <- arrNumbers do
+for x <- lstNumbers do
  IO.write "#{x}\n"
 end
 

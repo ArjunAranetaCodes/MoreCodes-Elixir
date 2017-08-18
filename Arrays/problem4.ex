@@ -1,7 +1,7 @@
 
-arrNumbers = [1,2,3]
+lstNumbers = [1,2,3]
 
-IO.write "#{List.first(arrNumbers)}\n"
-IO.write "#{List.last(arrNumbers)}\n"
+IO.write "#{List.first(lstNumbers)}\n"
+IO.write "#{List.last(lstNumbers)}\n"
 
 

@@ -1,9 +1,9 @@
 
-arrNumbers = [1,3,2,4]
-arrNumbers = Enum.sort(arrNumbers)
-arrNumbers = Enum.reverse(arrNumbers)
+lstNumbers = [1,3,2,4]
+lstNumbers = Enum.sort(lstNumbers)
+lstNumbers = Enum.reverse(lstNumbers)
 
-for x <- arrNumbers do
+for x <- lstNumbers do
  IO.write "#{x}\n"
 end
 

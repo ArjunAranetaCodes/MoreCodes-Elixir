@@ -8,19 +8,19 @@ defmodule Program do
    end
   end
 
-  def cont(arrNumbers, n, count) do
-   num = Enum.at(arrNumbers, n - 1)
+  def cont(lstNumbers, n, count) do
+   num = Enum.at(lstNumbers, n - 1)
    count =
     case num do
      2 -> count + 1
      _ -> count
     end
 
-   cont(arrNumbers, n-1, count)
+   cont(lstNumbers, n-1, count)
   end
 end
 
-arrNumbers = [1,1,2,3]
-Program.cont(arrNumbers, Enum.count(arrNumbers), 0)
+lstNumbers = [1,1,2,3]
+Program.cont(lstNumbers, Enum.count(lstNumbers), 0)
 
 
