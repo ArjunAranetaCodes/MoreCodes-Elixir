@@ -2,7 +2,7 @@
 This repository is for Elixir codes of my blog: http://more-codes.com/
 
 - - - -
-### [List Array Programming Problems](Lists/) <- Click to go to List Problems
+### [Elixir List Programming Problems](Lists/) <- Click to go to List Problems
 1. Write a program that outputs the length of list.
 2. Write a program that gets the index of an element in an list.
 3. Write a program that counts the occurence of an element in an list.
