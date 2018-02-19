@@ -11,7 +11,7 @@ Join Us on Youtube! <br/>
 #
 
 - - - -
-### [Elixir Easy Programming Problems](Problems/) <- Click to go to Easy Problems
+### [Elixir Easy Programming Problems](../Easy%20Problems/) <- Click to go to Easy Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Elixir/blob/master/Easy%20Problems/problem1.ex" target="_blank">Write a program that accepts two numbers and find the sum.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Elixir/blob/master/Easy%20Problems/problem2.ex" target="_blank">Write a program that accepts two numbers and perform all arithmetic operations.</a>
